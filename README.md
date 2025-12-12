@@ -7,7 +7,7 @@
 
 <table width="100%" align="center" style="border-collapse: collapse; table-layout: fixed;">
 <tr>
-<td width="50%" align="center" style="padding: 30px; min-width: 300px; border-right: 1px solid #ddd; vertical-align: middle;">
+<td width="100%" align="center" style="padding: 30px; min-width: 300px; border-right: 1px solid #ddd; vertical-align: middle;">
 
 ### 💼 Tech Stack
 `HTML` `CSS` `JavaScript`<br>
