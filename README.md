@@ -1,29 +1,14 @@
-### 🎓 BSIT Student | Web & System Developer
-**Student at Caraga State University - Cabadbaran Campus**
+### 👩‍💻 Rica Gin A. Mojado
 
-Passionate about building efficient web systems and backend solutions. Currently focusing on **Firebase integration** and **system architecture**.
+**BSIT Student | Web & System Developer | Student at Caraga State University - Cabadbaran Campus**
 
-### 🛠️ Featured Project
-**MojadoKitchenUtensils: Firebase Backend Setup**
-A complete backend system configuration with Firestore and Realtime Database for data management.
-[View Repository](https://github.com/helloworld201212/MojadoKitchenUtensils_FirebaseSetup)
+ c:/helloworld201212> : Passionate about building efficient web systems.
+ c:/helloworld201212> : Currently focusing on **Firebase** integration.
 
-### 💼 Tech Stack
-`HTML` `CSS` `JavaScript` `Firebase` `Firestore` `Git` `System Design`
-
-### 📚 Currently Exploring
-- Backend-as-a-Service (BaaS) with Firebase
-- Database design and optimization
-- System integration patterns
-
-### 📫 Professional Links
+### 📫 Connect
 <a href="https://www.linkedin.com/in/rica-gin-a-mojado-618160392">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:bugsaycsucc@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
-
----
-
-*"Building systems that work, one component at a time."*
