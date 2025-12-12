@@ -1,11 +1,11 @@
-### 🎓 BSIT Student | Web & System Developer 
+### 🎓 BSIT Student | Web & System Developer
 **Student at Caraga State University - Cabadbaran Campus**
 
 Passionate about building efficient web systems and backend solutions. Currently focusing on **Firebase integration** and **system architecture**.
 
 ### 🛠️ Featured Project
-**MojadoKitchenUtensils: Firebase Backend Setup**  
-A complete backend system configuration with Firestore and Realtime Database for data management.  
+**MojadoKitchenUtensils: Firebase Backend Setup**
+A complete backend system configuration with Firestore and Realtime Database for data management.
 [View Repository](https://github.com/helloworld201212/MojadoKitchenUtensils_FirebaseSetup)
 
 ### 💼 Tech Stack
