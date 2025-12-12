@@ -5,9 +5,9 @@
 
 ---
 
-<table width="100%" align="center" style="border-collapse: collapse;">
+<table width="100%" align="center" style="border-collapse: collapse; table-layout: fixed;">
 <tr>
-<td align="center" style="padding: 25px; border-right: 1px solid #ddd;">
+<td width="50%" align="center" style="padding: 30px; min-width: 300px; border-right: 1px solid #ddd; vertical-align: middle;">
 
 ### 💼 Tech Stack
 `HTML` `CSS` `JavaScript`<br>
@@ -15,7 +15,7 @@
 `System Design`
 
 </td>
-<td align="center" style="padding: 25px;">
+<td width="50%" align="center" style="padding: 30px; min-width: 300px; vertical-align: middle;">
 
 ### 📫 Socials
 <a href="https://discord.com/users/YourDiscordID"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="45"></a><br>
