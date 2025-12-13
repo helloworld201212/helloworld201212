@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rica Gin A. Mojado
 
-### BSIT Student | Aspiring Web & System Developer
+### BSIT Student | Web & System Developer 
 Student at Caraga State University - Cabadbaran Campus
 
 🌱 I’m currently learning and working on projects related to Web Development, PHP, and Machine Learning.
