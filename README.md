@@ -3,8 +3,6 @@
 ### BSIT Student | Aspiring Web & System Developer
 Student at Caraga State University - Cabadbaran Campus
 
-"Building systems that work, one component at a time."
-
 🌱 I’m currently learning and working on projects related to Web Development, PHP, and Machine Learning.
 
 ---
@@ -15,7 +13,7 @@ Student at Caraga State University - Cabadbaran Campus
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-*(Palitan ang mga link sa itaas ng iyong personal na mga contact)*
+
 
 ### 💻 Languages and Tools:
 
@@ -38,7 +36,7 @@ Student at Caraga State University - Cabadbaran Campus
 
 ---
 ### 📊 GitHub Stats:
-*(Maaari mong lagyan ng mga graphics ang iyong profile gamit ang mga serbisyo gaya ng GitHub Readme Stats. Halimbawa:)*
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=helloworld201212&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helloworld201212&layout=compact&theme=radical)
