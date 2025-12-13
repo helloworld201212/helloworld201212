@@ -1,32 +1,44 @@
-<h1>👩‍💻 Rica Gin A. Mojado</h1>
+# 👋 Hello, I'm Rica Gin A. Mojado
 
-**BSIT Student | Web & System Developer**  
-*Student at Caraga State University - Cabadbaran Campus*
+### BSIT Student | Aspiring Web & System Developer
+Student at Caraga State University - Cabadbaran Campus
 
----
+"Building systems that work, one component at a time."
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 20px 0; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd;">
-<div style="text-align: left;">
-
-### 💼 Tech Stack
-`HTML` `CSS` `JavaScript`<br>
-`Firebase` `Firestore` `Git`<br>
-`System Design` `Python` `PHP`
-
-</div>
-<div style="text-align: right;">
+🌱 I’m currently learning and working on projects related to Web Development, PHP, and Machine Learning.
 
 ---
 
-### 📫 Socials
-<a href="https://github.com/helloworld201212"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"></a>  
-<a href="https://discord.com/users/YourDiscordID"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35"></a>  
-<a href="https://www.linkedin.com/in/rica-gin-a-mojado-618160392"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"></a>  
-<a href="mailto:bugsaycsucc@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"></a>
+### 📬 Connect with me:
 
-</div>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+*(Palitan ang mga link sa itaas ng iyong personal na mga contact)*
+
+### 💻 Languages and Tools:
+
+**Programming Languages:**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries:**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
+### 📊 GitHub Stats:
+*(Maaari mong lagyan ng mga graphics ang iyong profile gamit ang mga serbisyo gaya ng GitHub Readme Stats. Halimbawa:)*
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=helloworld201212&show_icons=true&theme=radical)
 
-*"Building systems that work, one component at a time."*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helloworld201212&layout=compact&theme=radical)
