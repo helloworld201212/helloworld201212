@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rica Gin A. Mojado
+# 👩💻 Hello, I'm Rica Gin A. Mojado
 
 ### BSIT Student | Aspiring Web & System Developer
 Student at Caraga State University - Cabadbaran Campus
