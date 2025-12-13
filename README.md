@@ -11,7 +11,7 @@
 ### 💼 Tech Stack
 `HTML` `CSS` `JavaScript`<br>
 `Firebase` `Firestore` `Git`<br>
-`System Design`
+`System Design` `Python`
 
 </div>
 <div style="text-align: right;">
