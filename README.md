@@ -1,7 +1,9 @@
 # 👋 Hello, I'm Rica Gin A. Mojado
 
-### BSIT Student | Web & System Developer 
+### BSIT Student | Aspiring Web & System Developer
 Student at Caraga State University - Cabadbaran Campus
+
+"Building systems that work, one component at a time."
 
 🌱 I’m currently learning and working on projects related to Web Development, PHP, and Machine Learning.
 
@@ -9,28 +11,25 @@ Student at Caraga State University - Cabadbaran Campus
 
 ### 🌐 Let's Connect:
 
-<a href="mailto:your-real-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://linkedin.com/in/your-real-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://facebook.com/your-real-profile" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://github.com/helloworld201212" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:your-real-email@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32"/></a>
+<a href="https://linkedin.com/in/your-real-profile"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="32"/></a>
+<a href="https://facebook.com/your-real-profile"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="32"/></a>
+<a href="https://github.com/helloworld201212"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="32"/></a>
 
 ### 💻 Languages and Tools:
 
-<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
+<a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/></a>
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a>
+<a href="https://laravel.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/></a>
+<a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/></a>
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>
+<a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/></a>
 
 ---
 ### GitHub Stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helloworld201212&layout=compact&theme=radical&hide_border=true)
-
----
-"Building systems that work, one component at a time."
