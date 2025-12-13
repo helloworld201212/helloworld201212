@@ -9,8 +9,6 @@ Student at Caraga State University - Cabadbaran Campus
 
 ### 🌐 Let's Connect:
 
-### 🌐 Let's Connect:
-
 <a href="mailto:your-real-email@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32"/></a>
 <a href="https://linkedin.com/in/your-real-profile"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="32"/></a>
 <a href="https://facebook.com/your-real-profile"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="32"/></a>
