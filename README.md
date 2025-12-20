@@ -56,7 +56,7 @@ The **History Screen** records everything the user has done inside the app.
 - Makes the app more organized and user-friendly  
 
 **Screenshot:**  
-![History Screen](C:\Users\User\Downloads\Mojado_Flutter_FinalProject-main\app screenshots\History.jpg)
+![History Screen](History.jpg)
 
 ---
 
@@ -78,7 +78,7 @@ After scanning, the app displays:
 - Option to **View Recipe**  
 
 **Screenshot:**  
-![Scanner Screen](C:\Users\User\Downloads\Mojado_Flutter_FinalProject-main\app screenshots\Scanner.jpg)
+![Scanner Screen](Scanner.jpg)
 
 ---
 
@@ -96,7 +96,7 @@ It acts as a personal library where users can:
 - Manage the content they added  
 
 **Screenshot:**  
-![Collection Screen](C:\Users\User\Downloads\Mojado_Flutter_FinalProject-main\app screenshots\Collection.jpg)
+![Collection Screen](Collection.jpg)
 
 ---
 
@@ -113,7 +113,7 @@ Analytics provide insights into user interactions with the app, helping monitor 
 - **Completion Stats:** Visual representation of personal vs overall collection completion  
 
 **Screenshot:**  
-![Analytics Screen](C:\Users\User\Downloads\Mojado_Flutter_FinalProject-main\app screenshots\Statistics.jpg)
+![Analytics Screen](Statistics.jpg)
 
 ---
 
@@ -128,7 +128,7 @@ The **Recipe Collection** allows users to save their favorite recipes or scanned
 - Organize recipes by category, date, or usage frequency  
 
 **Screenshot:**  
-![Recipe Collection Screen](C:\Users\User\Downloads\Mojado_Flutter_FinalProject-main\app screenshots\Recipe Collection.jpg)
+![Recipe Collection Screen](Recipe Collection.jpg)
 
 ---
 
