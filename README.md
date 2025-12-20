@@ -142,7 +142,7 @@ The **Recipe Collection** allows users to save their favorite recipes or scanned
 **Kitchen Utensils Identification System** is built using:  
 - **Flutter & Dart** for cross-platform mobile development  
 - **Teachable Machine** for image classification of kitchen utensils
-- - User-friendly interfaces with **Home, History, Scanner, Collection, Analytics, and Recipe screens**  
+- User-friendly interfaces with **Home, History, Scanner, Collection, Analytics, and Recipe screens**  
 
 The app is designed to be **educational, interactive, and practical**, making it easier for anyone to **identify utensils, save recipes, and explore related cooking ideas**.
 
