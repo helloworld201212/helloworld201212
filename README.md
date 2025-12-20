@@ -8,7 +8,7 @@
 
 ---
 
-# 📱 Flutter Project – Complete App Documentation
+# 📱 Kitchen Utensils 
 
 This Flutter app is a **Kitchen Utensils Identification System** designed to help users recognize various kitchen tools using image classification technology. The application uses **Teachable Machine models** to identify utensils through image scanning and provide relevant information such as:
 
