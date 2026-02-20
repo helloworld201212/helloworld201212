@@ -1,4 +1,3 @@
-<h1 align="center" style="font-size: 70px;">Rica Gin A. Mojado</h1>
 <p align="center">
   BSIT Student | Aspiring Web & System Developer
 </p>
@@ -8,7 +7,7 @@
   <img src="https://camo.githubusercontent.com/0f084b513a48787c9cfc1246555c621eaab25730b2b13e75b8e029313ed5fa11/68747470733a2f2f75676f6b61776169692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f686f742d636f666665652e676966" width="150"/>
 </p>
 
----
+
 
 ###  Let's Connect:
 
