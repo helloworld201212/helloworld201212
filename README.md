@@ -1,4 +1,4 @@
-<h1 align="center">Rica Gin A. Mojado</h1>
+<h1 align="center" style="font-size: 70px;">Rica Gin A. Mojado</h1>
 
 <p align="center">
   BSIT Student | Aspiring Web & System Developer
