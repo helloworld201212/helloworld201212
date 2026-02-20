@@ -1,7 +1,3 @@
-<p align="center">
-  👋 Hello
-</p>
-
 <h1 align="center">Rica Gin A. Mojado</h1>
 
 <p align="center">
