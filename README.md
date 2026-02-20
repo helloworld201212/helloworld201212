@@ -1,6 +1,5 @@
-<p align="center">
-  BSIT Student | Aspiring Web & System Developer
-</p>
+<h1 align="center" style="font-size: 70px;">BSIT Student | Aspiring Web & System Developer</h1>
+
 
 <p align="center">
   <!-- Coffee GIF -->
