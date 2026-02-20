@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <!-- Coffee GIF na compatible sa GitHub -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/>
+  <!-- Coffee GIF -->
+  <img src="https://camo.githubusercontent.com/0f084b513a48787c9cfc1246555c621eaab25730b2b13e75b8e029313ed5fa11/68747470733a2f2f75676f6b61776169692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f686f742d636f666665652e676966" width="150"/>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 <a href="https://discord.com/users/your_discord_username"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="32"/></a>
 
 
----
+
 
 ###  Languages & Tools:
 
