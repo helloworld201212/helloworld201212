@@ -34,5 +34,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helloworld201212&layout=compact&theme=radical&hide_border=true)
 
 ---
-
-"Building systems that work, one component at a time."
