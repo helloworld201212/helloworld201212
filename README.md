@@ -70,9 +70,6 @@ I enjoy collaborating with teams and turning ideas into practical systems.
   <img src="https://streak-stats.demolab.com?user=helloworld201212&hide_border=true&background=0a0d0b&ring=39d98a&fire=39d98a&currStreakLabel=39d98a&sideLabels=c9d1cc&dates=6c7871&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=helloworld201212&bg_color=0a0d0b&color=c9d1cc&line=39d98a&point=ffffff&area=true&area_color=39d98a&hide_border=true" alt="Contribution graph" />
-</p>
 
 ---
 
