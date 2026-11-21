@@ -80,6 +80,4 @@ I enjoy collaborating with teams and turning ideas into practical systems.
   <i>“Building systems that work, one component at a time.”</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d98a,45:0e3b25,100:0a0d0b&height=110&section=footer" alt="" />
 </p>
