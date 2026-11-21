@@ -55,63 +55,7 @@ I enjoy collaborating with teams and turning ideas into practical systems.
   <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,nodejs,mongodb,postgres,wordpress,arduino&theme=dark" alt="Laravel, Tailwind, Bootstrap, Node.js, MongoDB, PostgreSQL, WordPress, Arduino" />
 </p>
 
----
 
-## 🚀 Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 CSUCC Paddler Studio</h3>
-      <sub><b>Capstone · E-learning system</b></sub>
-      <p>Interactive e-learning platform for <b>ITE 12 – Fundamentals of Programming</b> at CSUCC: lessons, coding labs, quizzes, slide games, class materials, attendance and outcome-based grading.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
-      </p>
-      <a href="https://paddlerstudio-production.up.railway.app"><b>🌐 Live site →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚔️ CodeCraft</h3>
-      <sub><b>Web game · Learn Python</b></sub>
-      <p>A pixel-art adventure that teaches Python through quests and battles, with character selection, learning modules, saved progress, and Google / GitHub sign-in.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      </p>
-      <a href="https://github.com/helloworld201212/Codecraft"><b>📂 Repository →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🫑 BellPepper Vision</h3>
-      <sub><b>Machine learning · Plant health</b></sub>
-      <p>Classifies a bell pepper leaf photo into six conditions — including bacterial spot, Cercospora, leaf curl and powdery mildew — using a Teachable Machine model.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <a href="https://github.com/helloworld201212/Bellpepper-Vision"><b>📂 Repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍳 Kitchen Utensils Scanner</h3>
-      <sub><b>Mobile app · Image classification</b></sub>
-      <p>Flutter app that identifies kitchen utensils from a photo, with confidence scores, related recipes, scan history, analytics, and light / dark themes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      </p>
-      <a href="https://mojadokitchenutensilsclassification.vercel.app"><b>🌐 Live demo</b></a> ·
-      <a href="https://github.com/helloworld201212/Mojado_KitchenUtensils_Classification_ProjectFinal"><b>📂 Repository</b></a>
-    </td>
-  </tr>
-</table>
 
 ---
 
