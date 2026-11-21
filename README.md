@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d0b,55:0e3b25,100:39d98a&height=190&section=header&text=Rica%20Gin%20A.%20Mojado&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Web%20%26%20System%20Developer%20%C2%B7%20BSIT%20Student&descAlignY=56&descSize=17&animation=fadeIn" alt="Rica Gin A. Mojado — Web & System Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d0b,55:0e3b25,100:39d98a&height=190&section=header&text=Rica%20Gin%20A.%20Mojado&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Web%20and%20System%20Developer%20-%20BSIT%20Student&descAlignY=56&descSize=17&animation=fadeIn" alt="Rica Gin A. Mojado — Web & System Developer" />
 </p>
 
 <p align="center">
