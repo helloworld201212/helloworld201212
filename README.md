@@ -30,7 +30,7 @@ I enjoy collaborating with teams and turning ideas into practical systems.
 
 ---
 
-## 🛠️ Tech stack
+##  Tech stack
 
 <p align="left">
   <b>Languages</b><br/>
@@ -56,7 +56,7 @@ I enjoy collaborating with teams and turning ideas into practical systems.
 
 ---
 
-## 📊 GitHub stats
+##  GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=helloworld201212&show_icons=true&hide_border=true&bg_color=0a0d0b&title_color=39d98a&icon_color=39d98a&text_color=c9d1cc&count_private=true" alt="GitHub stats" />
